@@ -15,18 +15,17 @@
 
 
 body {
-    background: linear-gradient(to right, #FFFACD, #eeff00);
+    background: linear-gradient(to top right, #50f9ff, #f9ccff, #fcd514);
 }
-
 
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#d2b356;
+    color: #ffffff;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#d2b356;
+    color: #ffea00;
 }
 
 /* Default Icon Color */
@@ -121,12 +120,16 @@ a:hover, #header.nav-solid nav a:hover {
 /*------------------------------------------------------------------------------------------*/
 
 
-/* Banner Background and Text Colors */
+/* Banner Background and Text Colors
 
-#banner {
-    background: url("imagesage-1.jpg") no-repeat center top;
+#banner{
+    background: url("") no-repeat center top;
     background-size:cover;
 }
+
+*/
+
+
 
 
 /*------------------------------------------------------------------------------------------*/
